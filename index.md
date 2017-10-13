@@ -2,6 +2,11 @@
 layout: default
 title: Very Good Research & Development, LLC
 ---
-Very Good Research & Development, LLC
 
-send consulting inquiries to [carl {dot} ab {dot} pearson {at} gmail](mailto:carl.ab.pearson@gmail.com)
+Hire Very Good Research & Development for your modeling needs:
+
+[carl {dot} ab {dot} pearson {at} gmail](mailto:carl.ab.pearson@gmail.com)
+
+...or do not; I am not a beggar.
+
+END OF PAGE.
